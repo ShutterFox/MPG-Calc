@@ -1,0 +1,20 @@
+c:\users\shutterfox\documents\visual studio 2013\Projects\MPGCalc\MPGCalc\bin\Debug\MPGCalc.exe.config
+c:\users\shutterfox\documents\visual studio 2013\Projects\MPGCalc\MPGCalc\obj\Debug\MPGCalc.csprojResolveAssemblyReference.cache
+c:\users\shutterfox\documents\visual studio 2013\Projects\MPGCalc\MPGCalc\bin\Debug\MPGCalc.exe
+c:\users\shutterfox\documents\visual studio 2013\Projects\MPGCalc\MPGCalc\bin\Debug\MPGCalc.pdb
+c:\users\shutterfox\documents\visual studio 2013\Projects\MPGCalc\MPGCalc\obj\Debug\MPGCalc.exe
+c:\users\shutterfox\documents\visual studio 2013\Projects\MPGCalc\MPGCalc\obj\Debug\MPGCalc.pdb
+C:\Users\ShutterFox\documents\visual studio 2013\Projects\MPGCalc\MPGCalc\bin\Debug\MPGCalc.exe.manifest
+C:\Users\ShutterFox\documents\visual studio 2013\Projects\MPGCalc\MPGCalc\bin\Debug\MPGCalc.application
+C:\Users\ShutterFox\documents\visual studio 2013\Projects\MPGCalc\MPGCalc\obj\Debug\MPGCalc.exe.manifest
+C:\Users\ShutterFox\documents\visual studio 2013\Projects\MPGCalc\MPGCalc\obj\Debug\MPGCalc.application
+D:\MPGCalc\MPGCalc\bin\Debug\MPGCalc.exe.config
+D:\MPGCalc\MPGCalc\obj\Debug\MPGCalc.exe
+D:\MPGCalc\MPGCalc\obj\Debug\MPGCalc.pdb
+D:\MPGCalc\MPGCalc\bin\Debug\MPGCalc.exe.manifest
+D:\MPGCalc\MPGCalc\bin\Debug\MPGCalc.application
+D:\MPGCalc\MPGCalc\bin\Debug\MPGCalc.exe
+D:\MPGCalc\MPGCalc\bin\Debug\MPGCalc.pdb
+D:\MPGCalc\MPGCalc\obj\Debug\MPGCalc.csprojResolveAssemblyReference.cache
+D:\MPGCalc\MPGCalc\obj\Debug\MPGCalc.exe.manifest
+D:\MPGCalc\MPGCalc\obj\Debug\MPGCalc.application
